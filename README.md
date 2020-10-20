@@ -1,4 +1,4 @@
-# BigSur Beta 10 (20A5395g)
+# BigSur Beta 10 (20A5395g) - EFI
  - Bootloader: OpenCore 0.6.2
  - Processor : AMD Ryzen 5 3600
  - MotherBoard: MSI-B450M Gaming Plus Max
